@@ -1,0 +1,12 @@
+.path{
+  stroke: steelblue;
+  fill:none;
+}
+
+.bar{
+  fill:steelblue;
+}
+
+.grid{
+	stroke: lightgrey;
+}
